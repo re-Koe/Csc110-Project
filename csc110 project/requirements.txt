@@ -1,0 +1,10 @@
+# Course required packages
+pytest
+python-ta
+# Data processing packages
+python-dateutil
+sklearn
+# Graphics and data visualization
+plotly
+pandas
+pygame
